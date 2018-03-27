@@ -69,13 +69,13 @@ If you want to list your results on our web, please send your name, model
 
 name, paper title, short description of your method and the link of the web
 
-of your project (if have).
+of your project (if you have).
 
 ===========================================================================
 
 Citation:
 
-	@inproceedings{murray2012ava,
+	@inproceedings{wang2018revisiting,
   		title={Revisiting Video Saliency: A Large-scale Benchmark and a New Model},
   		author={Wang, Wenguan and Shen, Jianbing and Guo, Fang and Cheng, Ming-Ming and Borji, Ali},
   		booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
