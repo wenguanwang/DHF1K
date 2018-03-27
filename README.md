@@ -75,12 +75,12 @@ of your project (if have).
 
 Citation:
 
-@inproceedings{murray2012ava,
-  title={Revisiting Video Saliency: A Large-scale Benchmark and a New Model},
-  author={Wang, Wenguan and Shen, Jianbing and Guo, Fang and Cheng, Ming-Ming and Borji, Ali},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  year={2018},
-}
+	@inproceedings{murray2012ava,
+  		title={Revisiting Video Saliency: A Large-scale Benchmark and a New Model},
+  		author={Wang, Wenguan and Shen, Jianbing and Guo, Fang and Cheng, Ming-Ming and Borji, Ali},
+  		booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  		year={2018},
+	}
 
 If you find our dataset is useful, please cite above paper.
 
