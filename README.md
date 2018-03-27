@@ -14,7 +14,7 @@ Download:
 
 Google disk：https://drive.google.com/open?id=1sW0tf9RQMO4RR7SyKhU8Kmbm4jwkFGpQ
 
-Baidu pan:
+Baidu pan: https://pan.baidu.com/s/110NIlwRIiEOTyqRwYdDnVg
 
 ===========================================================================
 
