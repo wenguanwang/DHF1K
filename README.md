@@ -2,6 +2,7 @@
 
 
 ===========================================================================
+
 W. Wang, J. Shen, F. Guo, M.-M Cheng and A. Borji, 
 
 Revisiting Video Saliency: A Large-scale Benchmark and a New Model,  
@@ -81,17 +82,7 @@ Citation:
   year={2018},
 }
 
-@article{wang2018deep,
-  title={Deep Visual Attention Prediction},
-  author={Wang, Wenguan and Shen, Jianbing},
-  journal={IEEE Transactions on Image Processing},
-  volume={27},
-  number={5},
-  pages={2368--2378},
-  year={2018},
-}
-
-If you find our dataset is useful, please cite above papers.
+If you find our dataset is useful, please cite above paper.
 
 ===========================================================================
 
