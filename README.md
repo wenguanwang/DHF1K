@@ -10,7 +10,7 @@ Revisiting Video Saliency: A Large-scale Benchmark and a New Model,
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018  
 
 ===========================================================================
-Download:
+The code (ACL) and dataset can be downloaded from:
 
 Google disk：https://drive.google.com/open?id=1sW0tf9RQMO4RR7SyKhU8Kmbm4jwkFGpQ
 
@@ -86,9 +86,9 @@ If you find our dataset is useful, please cite above paper.
 
 ===========================================================================
 
-Code: 
+Code (ACL): 
 
-Coming soon.
+You can find the code in google disk:  https://drive.google.com/open?id=1sW0tf9RQMO4RR7SyKhU8Kmbm4jwkFGpQ
 
 ===========================================================================
 
