@@ -48,7 +48,11 @@ The annotations for the training and val sets are released, but the
 annotations of the testing set are held-out for benchmarking.
 
 ===========================================================================
+We have corrected some statistics of our results 
+(baseline training setting (iii)) on UCF sports dataset.
+Please see our newest version in ArXiv.
 
+===========================================================================
 Results submission.
 
 Please orgnize your results in following format:
