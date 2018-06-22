@@ -53,6 +53,10 @@ We have corrected some statistics of our results
 Please see our newest version in ArXiv.
 
 ===========================================================================
+Note that, for Holly-wood2 dataset, we used the split videos 
+(each video only contains one shot), instead of the full videos.
+
+===========================================================================
 Results submission.
 
 Please orgnize your results in following format:
