@@ -10,7 +10,8 @@ Revisiting Video Saliency: A Large-scale Benchmark and a New Model,
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018  
 
 ===========================================================================
-The code (ACL) and dataset can be downloaded from:
+
+The code (ACLNet) and dataset can be downloaded from:
 
 Google disk：https://drive.google.com/open?id=1sW0tf9RQMO4RR7SyKhU8Kmbm4jwkFGpQ
 
@@ -48,15 +49,18 @@ The annotations for the training and val sets are released, but the
 annotations of the testing set are held-out for benchmarking.
 
 ===========================================================================
+
 We have corrected some statistics of our results 
 (baseline training setting (iii)) on UCF sports dataset.
 Please see our newest version in ArXiv.
 
 ===========================================================================
+
 Note that, for Holly-wood2 dataset, we used the split videos 
 (each video only contains one shot), instead of the full videos.
 
 ===========================================================================
+
 Results submission.
 
 Please orgnize your results in following format:
@@ -94,7 +98,7 @@ If you find our dataset is useful, please cite above paper.
 
 ===========================================================================
 
-Code (ACL): 
+Code (ACLNet): 
 
 You can find the code in google disk:  https://drive.google.com/open?id=1sW0tf9RQMO4RR7SyKhU8Kmbm4jwkFGpQ
 
