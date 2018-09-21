@@ -11,7 +11,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
 
 ===========================================================================
 
-The code (ACLNet) and dataset can be downloaded from:
+The code (ACLNet) and dataset (raw gaze records are new added!) can be downloaded from:
 
 Google disk：https://drive.google.com/open?id=1sW0tf9RQMO4RR7SyKhU8Kmbm4jwkFGpQ
 
@@ -58,6 +58,10 @@ Please see our newest version in ArXiv.
 
 Note that, for Holly-wood2 dataset, we used the split videos 
 (each video only contains one shot), instead of the full videos.
+
+===========================================================================
+
+The raw data of gaze record has been uploaded.
 
 ===========================================================================
 
