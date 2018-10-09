@@ -65,6 +65,20 @@ The raw data of gaze record has been uploaded.
 
 ===========================================================================
 
+For DHF1K dataset, we use following functions to generate continous saliency map:
+
+[x,y]=find(fixations);
+
+densityMap= make_gauss_masks(y,x,[video_res_y,video_res_x]); 
+
+make_gauss_masks.m has been uploaded.
+
+For UCF and Hollywood, I directly use following functions:
+
+densityMap = imfilter(fixations,fspecial('gaussian',150,20),'replicate');
+
+===========================================================================
+
 Results submission.
 
 Please orgnize your results in following format:
