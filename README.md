@@ -21,7 +21,6 @@ The Hollywood-2 (74.6G) can be downloaded from:
 
 Google disk：
 
-Baidu pan:
 
 ===========================================================================
 
