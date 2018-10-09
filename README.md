@@ -11,11 +11,17 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
 
 ===========================================================================
 
-The code (ACLNet) and dataset (raw gaze records are new added!) can be downloaded from:
+The code (ACLNet) and dataset (DHF1K with raw gaze records, UCF-sports are new added!) can be downloaded from:
 
 Google disk：https://drive.google.com/open?id=1sW0tf9RQMO4RR7SyKhU8Kmbm4jwkFGpQ
 
 Baidu pan: https://pan.baidu.com/s/110NIlwRIiEOTyqRwYdDnVg
+
+The Hollywood-2 (74.6G) can be downloaded from:
+
+Google disk：
+
+Baidu pan:
 
 ===========================================================================
 
