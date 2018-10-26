@@ -17,7 +17,7 @@ Google disk：https://drive.google.com/open?id=1sW0tf9RQMO4RR7SyKhU8Kmbm4jwkFGpQ
 
 Baidu pan: https://pan.baidu.com/s/110NIlwRIiEOTyqRwYdDnVg
 
-The Hollywood-2 (74.6G) can be downloaded from:
+The Hollywood-2 (74.6G, including attention maps) can be downloaded from:
 
 Google disk：https://drive.google.com/file/d/1vfRKJloNSIczYEOVjB4zMK8r0k4VJuWk/view?usp=sharing
 
