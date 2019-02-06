@@ -37,6 +37,8 @@ Files:
 
 'generate_frame.m': used for extracting the frame images from AVI videos. 
 
+Please note raw data of individual viewers are stored in 'exportdata_train.rar'.
+
 Note that please do not change the way of naming frames.
 
 ===========================================================================
