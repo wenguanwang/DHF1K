@@ -3,7 +3,7 @@
 
 ===========================================================================
 
-[Wenguan Wang](https://sites.google.com/site/wenguanwangwwg/), J. Shen, F. Guo, M.-M Cheng and A. Borji, 
+[Wenguan Wang](https://sites.google.com/view/wenguanwang), J. Shen, F. Guo, M.-M Cheng and A. Borji, 
 
 Revisiting Video Saliency: A Large-scale Benchmark and a New Model,  
 
