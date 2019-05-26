@@ -113,11 +113,11 @@ of your project (if you have).
 
 Citation:
 
-	@article{wang2018revisiting,
-  		title={Revisiting Video Saliency: A Large-scale Benchmark and a New Model},
-  		author={Wang, Wenguan and Shen, Jianbing and Guo, Fang and Cheng, Ming-Ming and Borji, Ali},
-  		journal={arXiv preprint arXiv:1904.09146},
-  		year={2019},
+	@InProceedings{Wang_2018_CVPR,
+	author = {Wang, Wenguan and Shen, Jianbing and Guo, Fang and Cheng, Ming-Ming and Borji, Ali},
+	title = {Revisiting Video Saliency: A Large-Scale Benchmark and a New Model},
+	booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition},
+	year = {2018}
 	}
 
 If you find our dataset is useful, please cite above paper.
