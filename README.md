@@ -3,11 +3,13 @@
 
 ===========================================================================
 
-[Wenguan Wang](https://sites.google.com/view/wenguanwang), J. Shen, F. Guo, M.-M Cheng and A. Borji, 
+[Wenguan Wang](https://sites.google.com/view/wenguanwang), J. Shen, M.-M Cheng and A. Borji, 
 
 [Revisiting Video Saliency: A Large-scale Benchmark and a New Model,](https://www.researchgate.net/publication/329747100_Revisiting_Video_Saliency_A_Large-Scale_Benchmark_and_a_New_Model)  
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018  
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 and
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2019
 
 ===========================================================================
 
