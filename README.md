@@ -119,8 +119,15 @@ Citation:
 	booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition},
 	year = {2018}
 	}
+	
+	@ARTICLE{Wang_2019_revisitingVS, 
+	author={W. {Wang} and J. {Shen} and J. {Xie} and M. {Cheng} and H. {Ling} and A. {Borji}}, 
+	journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+	title={Revisiting Video Saliency Prediction in the Deep Learning Era}, 
+	year={2019}, 
+	}
 
-If you find our dataset is useful, please cite above paper.
+If you find our dataset is useful, please cite above papers.
 
 ===========================================================================
 
@@ -132,8 +139,5 @@ You can find the code in google disk:  https://drive.google.com/open?id=1sW0tf9R
 
 Contact Information
 Email:
-
 	wenguanwang.ai@gmail.com
-	
-	shenjianbing@bit.edu.cn
 ------------------------------------------------------------------------------------------------
