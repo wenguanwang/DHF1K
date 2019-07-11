@@ -71,7 +71,7 @@ Note that, for Holly-wood2 dataset, we used the split videos
 
 ===========================================================================
 
-The raw data of gaze record has been uploaded.
+The raw data of gaze record "exportdata_train.rar" has been uploaded.
 
 ===========================================================================
 
