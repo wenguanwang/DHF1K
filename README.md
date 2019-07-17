@@ -113,6 +113,16 @@ of your project (if you have).
 
 ===========================================================================
 
+We use
+
+Keras: 2.2.2
+
+tensorflow: 1.10.0
+
+to implement our model. 
+
+===========================================================================
+
 Citation:
 
 	@InProceedings{Wang_2018_CVPR,
