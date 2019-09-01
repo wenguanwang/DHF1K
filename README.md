@@ -105,7 +105,7 @@ Please first test your model on the val set or other video saliency dataset.
 
 The response may be more than one week.
 
-If you want to list your results on our web, please send your name, model 
+If you want to list your results on [our web](https://mmcheng.net/videosal/), please send your name, model 
 
 name, paper title, short description of your method and the link of the web
 
