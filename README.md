@@ -23,6 +23,8 @@ The Hollywood-2 (74.6G, including attention maps) can be downloaded from:
 
 Google disk：https://drive.google.com/file/d/1vfRKJloNSIczYEOVjB4zMK8r0k4VJuWk/view?usp=sharing
 
+Baidu pan: link：https://pan.baidu.com/s/16BIAuaGEDDbbjylJ8zziuA  code：bt3x
+
 Since so many people are interested in the training code, I decide to upload it in above webdisks. Enjoy it.
 
 ===========================================================================
