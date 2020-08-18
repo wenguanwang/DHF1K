@@ -151,6 +151,12 @@ You can find the code in google disk:  https://drive.google.com/open?id=1sW0tf9R
 
 ===========================================================================
 
+Terms of use:
+
+The dataset and code are licensed under a [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+===========================================================================
+
 Contact Information
 Email:
 	wenguanwang.ai@gmail.com
