@@ -62,6 +62,12 @@ annotations of the testing set are held-out for benchmarking.
 
 ===========================================================================
 
+The attribute annotation of all the videos "DHF1k_attribute-all" has been uploaded. 
+
+The statistics of the attributes are subjected to this version.
+
+===========================================================================
+
 We have corrected some statistics of our results 
 (baseline training setting (iii)) on UCF sports dataset.
 Please see our newest version in ArXiv.
