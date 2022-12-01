@@ -1,5 +1,6 @@
 # DHF1K
 
+For performance benchmarking, please directly drop emails to 'DHF1Kdataset@gmail.com'.
 
 ===========================================================================
 
